@@ -1,4 +1,4 @@
-#🥋Bryce
+# 🥋Bryce
 
 **`Computer Science Student (Programming/Film/Photography)`**
 
