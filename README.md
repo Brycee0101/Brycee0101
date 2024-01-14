@@ -13,7 +13,7 @@ I am constantly seeking out new challenges and opportunities to learn and grow m
    <p align="left">
          <img alt="email" title="Reach Me" src="https://custom-icon-badges.demolab.com/badge/-bsphalnin@mymail.mapua.edu.ph-blue?style=for-the-badge&logo=mention&logoColor=white"/>
       <!-- <a href=""> -->
-         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Metro%20Manila-PH-green?style=for-the-badge&logo=location&logoColor=white"/>
+         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Dubai-UAE-green?style=for-the-badge&logo=location&logoColor=white"/>
    </p>
 
 ---
