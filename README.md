@@ -2,13 +2,7 @@
 
 **`Computer Science Student (Programming/Film/Photography)`**
 
-Hi, my name is Bryce and I am a Computer Science student at Mapua University.
-
-I have a passion for exploring technology and a talent for solving computer problems. My experience in freelancing, full-stack web development, taking up Computer Systems Servicing (Junior High School) and ICT track (Senior High School) and PC-building, has honed my skills in critical thinking and problem-solving. I am a quick learner, adaptable, and always eager to expand my knowledge in the field.
-
-My love for gaming has also provided me with a deep understanding of hardware and software systems.
-
-I am constantly seeking out new challenges and opportunities to learn and grow my skills, and I am excited to see where my career in technology will take me.
+Hey there! I'm Bryce Stephen Halnin, a passionate tech-enthusiast, gamer, and a versatile Computer Science Major in Application Development with a knack for solving computer complexities. I've dived into web development, software development, database administration, freelancing and navigated the realms of Computer Systems Servicing and Information Communications and Technology. My expertise extends to SEO, Social Media Management, and Multimedia Editing. I bring a unique blend of critical thinking and hands-on skills from different computing environments. I thrive on new challenges, continuously seeking opportunities to learn and grow my tech skills.
 
    <p align="left">
          <img alt="email" title="Reach Me" src="https://custom-icon-badges.demolab.com/badge/-bsphalnin@mymail.mapua.edu.ph-blue?style=for-the-badge&logo=mention&logoColor=white"/>
